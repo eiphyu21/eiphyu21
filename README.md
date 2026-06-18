@@ -1,9 +1,4 @@
 # Hi there, I'm Ei Phyu! 👋
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&width=435&lines=IT+Student+%26+Developer;Learning+JLPT+N3+Japanese;Passed+ITPEC+FE+Exam!🎤" alt="Typing SVG" />
-  </a>
-</p>
 
 Welcome to my GitHub profile! I am a passionate IT student and developer who loves building web applications and exploring new technologies. I am also currently expanding my horizons by learning the Japanese language.
 

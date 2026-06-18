@@ -16,13 +16,23 @@ Welcome to my GitHub profile! I am a passionate IT student and developer who lov
 ## 🛠️ Tech Stack & Skills
 
 ### **Frontend & Design**
-* HTML5, CSS3, JavaScript (ES6+)
-* Modern UI Design (Clean layouts, Glassmorphism)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### **Backend & Databases**
-* PHP (Laragon environment)
-* Java (J2SE, J2EE / Jakarta EE, JSP, Servlets)
-* MySQL / Database Design
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eiphyu21&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ei Phyu's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiphyu21&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
@@ -62,5 +72,5 @@ Here are some of the key projects I have built along my learning journey:
 ## 📫 Connect with Me
 
 * **GitHub:** [@eiphyu21](https://github.com/eiphyu21)
-⚡ *“Continuous learning is the minimum requirement for success in any field.”*
 
+⚡ *“Continuous learning is the minimum requirement for success in any field.”*

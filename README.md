@@ -1,4 +1,9 @@
 # Hi there, I'm Ei Phyu! 👋
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&width=435&lines=IT+Student+%26+Developer;Learning+JLPT+N3+Japanese;Passed+ITPEC+FE+Exam!🎤" alt="Typing SVG" />
+  </a>
+</p>
 
 Welcome to my GitHub profile! I am a passionate IT student and developer who loves building web applications and exploring new technologies. I am also currently expanding my horizons by learning the Japanese language.
 
@@ -13,17 +18,27 @@ Welcome to my GitHub profile! I am a passionate IT student and developer who lov
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-### **Frontend & Design**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+### **Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend Skills" />
+</p>
 
-### **Backend & Databases**
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### **Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,php" alt="Backend Skills" />
+</p>
+
+### **Database**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Database Skills" />
+</p>
+
+### **Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" alt="Tools" />
+</p>
 
 ---
 
